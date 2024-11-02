@@ -1,3 +1,3 @@
 # ProyectoED
 
-#Primera parte codigo
+#Primera parte
