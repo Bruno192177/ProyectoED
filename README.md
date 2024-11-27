@@ -1,3 +1,3 @@
-# ProyectoED
+# Terminal Autobuses
 
 #Primera parte
